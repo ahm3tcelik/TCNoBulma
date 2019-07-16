@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TC No Bulma</string>
+    <string name="goster">Göster</string>
+    <string name="tc_text">TC Kimlik numarasının tamamını öğrenmek için alttaki kutucuğa ilk 9 hanesini girin ve Göster butonuna basın.</string>
+    <string name="hint">########</string>
+    <string name="tekrar">Tekrar Dene</string>
+</resources>

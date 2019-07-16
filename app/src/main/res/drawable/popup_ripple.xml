@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:color="@color/red"
+    tools:targetApi="lollipop"><!-- ripple_gonder effect color -->
+    <item android:drawable="@drawable/popup_button">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/red" /> <!-- background color -->
+
+            <corners android:radius="10dp"/>
+        </shape>
+    </item>
+</ripple>

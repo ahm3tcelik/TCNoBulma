@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "1065227856931",
+    "firebase_url": "https://tc-no-bulma.firebaseio.com",
+    "project_id": "tc-no-bulma",
+    "storage_bucket": "tc-no-bulma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065227856931:android:f0025e9864406e1f",
+        "android_client_info": {
+          "package_name": "com.ahmetc.tcnobulma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065227856931-09nqukesocdl446ulk615p7lgslf6qtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahmetc.tcnobulma",
+            "certificate_hash": "69af9e7382e37063bffecde98387c602952fbf70"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ZlI3LPe06Z9CZYkWcBocZCmHoZ_Xmek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065227856931-9n9dsbd0ealpbd3h7ic0nm19rkc3aade.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8640966659035413~2275807537"
+    }
+  ],
+  "configuration_version": "1"
+}
